@@ -84,7 +84,13 @@ body {
 	margin-bottom: 30px;
 }
 
-.top p{
+.resume{
+	color:white;
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+.top p,.resume:hover{
 	color:white;
 	text-shadow: 0 0 5px #777;
 	font-size: 20px;
@@ -96,30 +102,6 @@ body {
 	border-color: white;
 	box-shadow: 0 0 10px #222;
 	border-style: solid;
-}
-
-.tile-card{
-	box-shadow: 0 0 10px #777;
-	border-radius: 5px;
-	margin-top: 10px;
-}
-
-.tile-card .title.is-2{
-	font-weight:600;
-}
-
-.tile-headings{
-	color:#111;
-	size:24px;
-}
-
-.tile p{
-	color:#444;
-	size:18px;
-}
-
-
-.face-image{
 	max-height: 200px;
 	max-width: 200px;
 }
