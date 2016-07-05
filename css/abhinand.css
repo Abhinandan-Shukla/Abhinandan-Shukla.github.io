@@ -123,6 +123,42 @@ body {
 	max-height: 200px;
 	max-width: 200px;
 }
+
+.social-icon-img{
+    width:35px;
+    height: 35px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: grey;
+}
+
+.social-icon-img i{
+    color: white;
+    position: relative;
+    top: 7px;
+}
+
+.f:hover{
+    background-color: #3b5998;
+}
+
+.in:hover{
+    background-color: #00a0dc;
+}
+
+.g:hover{
+    background-color: #dd4b39;
+}
+
+.git:hover{
+	background-color: black;
+}
+
+.mail:hover{
+	background-color: #FFAC40;
+}
+
 .hero.aboutme{
 	background-image: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 71%, #2cb5e8 100%);
 }
