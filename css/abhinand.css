@@ -30,7 +30,7 @@ body {
 	font-weight: 600;
 }
 
-.hero-head .nav-left .nav-item:hover{
+.hero-head .nav-left .nav-item:hover,.hero-head .nav-left .nav-item.is-open{
 	text-shadow: 0px 0px 10px #777;
 }
 
@@ -41,7 +41,7 @@ body {
 	font-weight: 600;
 }
 
-.hero-head .nav-menu a.nav-item:hover{
+.hero-head .nav-menu a.nav-item:hover,.hero-head .nav-menu a.nav-item.is-open{
 	opacity: 1;
 	text-shadow: 0px 0px 10px #777;
 }
