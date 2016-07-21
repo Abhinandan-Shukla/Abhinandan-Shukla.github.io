@@ -28,10 +28,10 @@
             </span>
 
             <div id="nav-menu" class="nav-right nav-menu">
-                <a class="nav-item is-active" href="/aboutme.html">
+                <a class="nav-item is-active" href="/aboutme.php">
                     About
                 </a>
-                <a class="nav-item is-active is-open" href="/skills.html">
+                <a class="nav-item is-active is-open" href="/skills.php">
                     Skills
                 </a>
             </div>
